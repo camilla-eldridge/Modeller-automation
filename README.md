@@ -1,4 +1,15 @@
 
+fasta2ali.py
+
+- Converts fasta file to ali format for modeller**
+
+            usage: fasta2ali.py ID fasta_file
+                     
+            
+            
+            
+<br /> <br /> <br /> 
+
 Dope_compare.py 
 
 - Script to automate single, multi and loop model generation and DOPE comparison in MODELLER.
@@ -16,7 +27,7 @@ Requirements:
 <br /> <br /> <br /> 
 Notes:
 - template1 should be the template with the highest sequence % id to query.
-- The query_ID needs to be the same as the ID used to generate the .ali file. 
+- The query_ID needs to be the same as the ID used to generate the .ali file**
 - chainid needs to be capitalised. 
 - Depending on compute power n models could be changed - look for starting_model and ending_model. 
 - To look out for; best DOPE score not necessarily best model - particularly for loop models, hint: view it in pymol.
