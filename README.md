@@ -18,5 +18,5 @@ Notes:
 - template1 should be the template with the highest sequence % id to query.
 - The query_ID needs to be the same as the ID used to generate the .ali file. 
 - chainid needs to be capitalised. 
-- Depending on compute power n models could be changed - look for starting_model and ending_model. <br /> <br /> <br /> 
+- Depending on compute power n models could be changed - look for starting_model and ending_model. 
 - To look out for; best DOPE score not necessarily best model - particularly for loop models, hint: view it in pymol.
