@@ -19,7 +19,4 @@ Notes:
 - The query_ID needs to be the same as the ID used to generate the .ali file. 
 - chainid needs to be capitalised. 
 - Depending on compute power n models could be changed - look for starting_model and ending_model. <br /> <br /> <br /> 
-
-
-
-* to look out for; best DOPE score not necessarily best model - particularly for loop models, hint: view it in pymol.
+- To look out for; best DOPE score not necessarily best model - particularly for loop models, hint: view it in pymol.
