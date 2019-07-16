@@ -42,9 +42,7 @@ iD=sys.argv[5]
 
 
 def get_dopest_score(file_in, opt):
-
-	"""* function to identify model with best DOPE score *"""
-
+    """* function to identify model with best DOPE score *"""
     with open(file_in, "r") as log_file:
         log_file=log_file.read()
         if opt == "M": # if not loop :
