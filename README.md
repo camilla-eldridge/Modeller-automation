@@ -19,8 +19,13 @@ Dope_compare.py
 Requirements:
 - Python modules: modeller, pylab, os, sys 
 - Python 2.7
+<br /> <br /> <br /> 
+
+![alt text](Modeller-scripts/DOPE_compare/dope_example.png)
 
 
+
+<br /> <br /> <br /> 
 
       usage:  template1 template2 chainid_template1 chainid_template2 query_ID
 
