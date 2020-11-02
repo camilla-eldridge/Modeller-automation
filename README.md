@@ -21,7 +21,7 @@ Requirements:
 - Python 2.7
 <br /> <br /> <br /> 
 
-![alt text](Modeller-scripts/DOPE_compare/dope_example.png)
+![alt text](https://github.com/camilla-eldridge/Modeller-scripts/blob/master/DOPE_compare/dope_example.png)
 
 
 
