@@ -16,16 +16,19 @@ Dope_compare.py
 - Produces final plot to compare DOPE scores of different modelling methods: single template, multi-template, automatic loop refinement on multi-template model.
 <br /> <br /> <br /> 
 
-Requirements:
-- Python modules: modeller, pylab, os, sys 
-- Python 2.7
-<br /> <br /> <br /> 
+
 
 ![alt text](https://github.com/camilla-eldridge/Modeller-scripts/blob/master/DOPE_compare/dope_example.png)
 
+<br /> <br /> <br /> 
 
+Requirements:
+- Python modules: modeller, pylab, os, sys 
+- Python 2.7
 
 <br /> <br /> <br /> 
+
+
 
       usage:  template1 template2 chainid_template1 chainid_template2 query_ID
 
