@@ -4,7 +4,6 @@ Scripts to automate protein homology modelling with `Modeller`.
 <br /> <br /> <br /> 
 
 
-
 `fasta2ali.py`
 
 - Converts fasta file to ali format for `Modeller`**
