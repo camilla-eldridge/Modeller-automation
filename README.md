@@ -1,4 +1,4 @@
-# Modeller scripts
+# Automating protein homology modelling with Modeller 
 
 Scripts to automate protein homology modelling with `Modeller`.             
 <br /> <br /> <br /> 
